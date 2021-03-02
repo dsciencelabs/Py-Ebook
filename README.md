@@ -2,7 +2,7 @@
 
 In this repository, you will learn the following syllabus:
 
-## [1.Introduction to Python](https://github.com/dsciencelabs/Py-Ebook/blob/master/1.Introduction-to-Python.ipynb)
+## [1.Introduction to Python]()
 
 - What is Python?
   - Installing Python and Jupyter Notebook with Anaconda
